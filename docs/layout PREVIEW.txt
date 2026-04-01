@@ -1,0 +1,323 @@
+SETTINGS PAGE — FULL DESKTOP PREVIEW
+┌──────────────────────────────────────────────────────────────┐
+│                       TOP HEADER (52px)                      │
+│  [ R ]   Rasesh COA Redaction Tool                           │
+│         Auto-detect · Auto-redact · Manual fine-tune         │
+│                                             [   Beta   ]     │
+└──────────────────────────────────────────────────────────────┘
+┌─────── Sidebar (ALWAYS visible) ──────────┐       ┌──────────────────────────── Settings Panel ────────────┐
+│  Redectio                                 │       │  Home / Settings                                       │   
+│  ─────────────────────────────────────────│       │  [ Appearance ] [ Output ] [ Toolbar ] [ Shortcuts ]   │
+│  • Redact COA                             │       │  ───────────────── Appearance Tab ───────────────────  │
+│  • Batch                                  │       │                       Theme                            │
+│ • Ai Training                             │       │                                                        │ 
+│  • Settings   ← highlighted               │       │           ○ Light     ○ Dark     ○ System              │
+│                                           │       │                     UI Density                         │
+│  (Upload panel hidden on settings page)   │       │               ● Comfortable   ○ Compact                │
+│                                           │       │                Default Redaction Color                 │
+│  Templates                                │       │               [ ■ black color picker ]                 │
+│  [ company dropdown ]                     │       │                Sticky Search Bar     [✓]               │
+│  [ Save Selected as Rule ]                │       │                Auto Highlight Mode   [✓]               │
+└───────────────────────────────────────────┘       │                   [ Save Settings ]                    │
+┌──────────────────────────────────────────────────────────────┐
+│                     FOOTER: Redectio · Local-only            │
+└──────────────────────────────────────────────────────────────┘
+
+
+SETTINGS PAGE — SMALL SCREEN PREVIEW
+┌──────────────────────────────────────────────────────────────┐
+│                       TOP HEADER (52px)                      │
+│  [ R ]   Rasesh COA Redaction Tool                           │
+│         Auto-detect · Auto-redact · Manual fine-tune         │
+│                                             [   Beta   ]     │
+└──────────────────────────────────────────────────────────────┘
+┌─────── Sidebar (ALWAYS visible) ──────────┐       ┌──────────────────────────── Settings Panel ────────────┐
+│  Redectio                                 │       │  Home / Settings                                       │   
+│  ─────────────────────────────────────────│       │  [ Appearance ] [ Output ] [ Toolbar ] [ Shortcuts ]   │
+│  • Redact COA (icon only)                 │       │  ───────────────── Appearance Tab ───────────────────  │
+│  • Batch          (icon only)             │       │                       Theme                            │
+│ • Ai Training  (icon only)                │       │                                                        │ 
+│  • Settings   ← highlighted (icon only)   │       │           ○ Light     ○ Dark     ○ System              │
+│                                           │       │                     UI Density                         │
+│  (Upload panel hidden on settings page)   │       │               ● Comfortable   ○ Compact                │
+│                                           │       │                Default Redaction Color                 │
+│  Templates                                │       │               [ ■ black color picker ]                 │
+│  [ company dropdown ]                     │       │                Sticky Search Bar     [✓]               │
+│  [ Save Selected as Rule ]                │       │                Auto Highlight Mode   [✓]               │
+└───────────────────────────────────────────┘       │                   [ Save Settings ]                    │
+┌──────────────────────────────────────────────────────────────┐
+│                     FOOTER: Redectio · Local-only            │
+└──────────────────────────────────────────────────────────────┘
+
+
+MAIN PAGE — FULL DESKTOP PREVIEW
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                               TOP HEADER (52px)                              │
+│  [ R ]   Rasesh COA Redaction Tool                                           │
+│         Auto-detect · Auto-redact · Manual fine-tune                         │
+│                                                         [   Beta   ]         │
+└──────────────────────────────────────────────────────────────────────────────┘
+┌──────── Sidebar ───────────┐  ┌──────────── Viewer ──────────┐  ┌───────── Tools ─────────┐
+│ Redectio                   │  │  Zoom - Page Nav - Search    │  │  [T] [□] [Barcode]      │
+│ • Redact COA (active)      │  │  ────────────────────────────│  │     Undo / Redo         │
+│ • Batch                    │  │  PDF Page(s)                 │  │  Auto / Apply / Clear   │
+│ • Ai Training              │  │                              │  │                         │
+│ • Settings                 │  │  (full width, scrollable)    │  │     Color Picker        │
+│ Upload Panel               │  │                              │  │     Plugins List        │
+│ Templates                  │  │                              │  │                         │
+└────────────────────────────┘  └──────────────────────────────┘  └─────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           FOOTER: Redectio · Local-only                      │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+MAIN PAGE — SMALL SCREEN PREVIEW (<900px)
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                               TOP HEADER (52px)                              │
+│  [ R ]   Rasesh COA Redaction Tool                                           │
+│         Auto-detect · Auto-redact · Manual fine-tune                         │
+│                                                         [   Beta   ]         │
+└──────────────────────────────────────────────────────────────────────────────┘
+┌──────── Sidebar ────────────────┐  ┌──────────── Viewer ──────────┐  ┌───────── Tools ─────────┐
+│ Redectio                        │  │  Zoom - Page Nav - Search    │  │  [T] [□] [Barcode]      │
+│ • Redact COA (active)(icon only)│  │  ────────────────────────────│  │     Undo / Redo         │
+│ • Batch (coming) (icon only)    │  │  PDF Page(s)                 │  │  Auto / Apply / Clear   │
+│ • Ai Training  (icon only)      │  │                              │  │                         │
+│ • Settings      (icon only)     │  │  (full width, scrollable)    │  │     Color Picker        │
+│ Upload Panel  (icon only)       │  │                              │  │     Plugins List        │
+│ Templates   (icon only)         │  │                              │  │                         │
+└─────────────────────────────────┘  └──────────────────────────────┘  └─────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           FOOTER: Redectio · Local-only                      │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+
+my side bar fro all pages other then redaction page
+for regural size
+┌──────── Sidebar ─────┐  
+│ Redectio             │  
+│ • Redact COA (active)│  
+│ • Batch              │  
+│ • Ai Training        │  
+│ • Settings           │  
+│ Upload Panel         │  
+│ Templates            │  
+└──────────────────────┘ 
+for small size
+┌──────── Sidebar ────────────────┐  
+│ Redectio                        │  
+│ • Redact COA (active)(icon only)│  
+│ • Batch (coming) (icon only)    │  
+│ • Ai Training  (icon only)      │  
+│ • Settings      (icon only)     │  
+│ Upload Panel  (icon only)       │  
+│ Templates   (icon only)         │  
+└─────────────────────────────────┘  
+
+
+my tools and plugin pannel 
+for tools
+┌───────── Tools / Plugin ─────────┐
+│  [T]                             │  
+│  [□]                             │  
+│  [Barcode]                       │
+│ Undo / Redo                      │
+│  Auto                            │  
+│  Apply                           │  
+│  Clear                           │
+└──────────────────────────────────┘
+
+for plugin
+┌───────── Tools / Plugin ─────────┐
+│  [icone]  CONVERT                │  
+│  [icone]  OPTIMIZE               │  
+│  [icone]  REDACTION              │
+│  [icone]  COMPRESS               │
+│  [icone]  SIGN                   │  
+│  [icone]                         │  
+│  [icone]  DEBUG                  │
+└──────────────────────────────────┘
+
+
+
+
+
+
+
+i want my redaction page will look something like this
++-----------------------------------------------------------------------------------------------------------------------+
+TOP HEADER (52px)
+|  logo   software name      Home    Redaction     AI Training    Rule Define Studio    PDF Toolbox     Settings  [   Beta   ]|
+|         tagline                                                                                                         |
++--------------
+┌──────── Sidebar ───────────┐  ┌──────────── Viewer ──────────┐  ┌───────── Tools ─────────┐
+│  Upload Panel              │  │  Zoom - Page Nav - Search    │  │  [T] [□] [Barcode]      │
+│ •                          │  │  ────────────────────────────│  │     Undo / Redo         │
+│                            │  │  PDF Page(s)                 │  │  Auto / Apply / Clear   │
+│                            │  │                              │  │                         │
+│                            │  │  (full width, scrollable)    │  │     Color Picker        │
+│                            │  │                              │  │     Plugins List        │
+│ Templates                  │  │                              │  │                         │
+└────────────────────────────┘  └──────────────────────────────┘  └─────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           FOOTER: Redectio · Local-only                      │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+my tools and plugin pannel 
+for tools
+┌───────── Tools / Plugin ─────────┐
+│  [T]                             │  
+│  [□]                             │  
+│  [Barcode]                       │
+│ Undo / Redo                      │
+│  Auto                            │  
+│  Apply                           │  
+│  Clear                           │
+└──────────────────────────────────┘
+
+for plugin
+┌───────── Tools / Plugin ─────────┐
+│  [icone]  CONVERT                │  
+│  [icone]  OPTIMIZE               │  
+│  [icone]  REDACTION              │
+│  [icone]  COMPRESS               │
+│  [icone]  SIGN                   │  
+│  [icone]                         │  
+│  [icone]  DEBUG                  │
+└──────────────────────────────────┘
+
+my side bar fro all pages other then redaction page
+for regural size
+┌──────── Sidebar ─────┐   
+│ Upload Panel         │  
+│ Templates            │  
+└──────────────────────┘ 
+for small size
+┌──────── Sidebar ────────────────┐  
+│ Upload Panel  (icon only)       │  
+│ Templates   (icon only)         │  
+└─────────────────────────────────┘ 
+
+
+
+
+i want SETTINGS PAGE will look something like this
++-----------------------------------------------------------------------------------------------------------------------+
+TOP HEADER (52px)
+|  logo   software name      Home    Redaction     AI Training    Rule Define Studio    PDF Toolbox     Settings  [   Beta   ]|
+|         tagline                                                                                                         |
++--------------
+┌─────── Sidebar (remove ) ─────┐       ┌──────────────────────────── Settings Panel ────────────┐
+│                               │       │  Home / Settings                                       │   
+│  ─────────────────────────────│       │  [ Appearance ] [ Output ] [ Toolbar ] [ Shortcuts ]   │
+│                               │       │  ───────────────── Appearance Tab ───────────────────  │
+│                               │       │                       Theme                            │
+│                               │       │                                                        │ 
+│                               │       │           ○ Light     ○ Dark     ○ System              │
+│                               │       │                     UI Density                         │
+│                               │       │               ● Comfortable   ○ Compact                │
+│                               │       │                Default Redaction Color                 │
+│                               │       │               [ ■ black color picker ]                 │
+│                               │       │                Sticky Search Bar     [✓]               │
+│                               │       │                Auto Highlight Mode   [✓]               │
+└───────────────────────────────┘       │                   [ Save Settings ]                    │
+┌──────────────────────────────────────────────────────────────┐
+│                     FOOTER: Redectio · Local-only            │
+└──────────────────────────────────────────────────────────────┘
+
+
+
+
+
+i want ai training pages will look something like this
++-----------------------------------------------------------------------------------------------------------------------+
+TOP HEADER (52px)
+|  logo   software name      Home    Redaction     AI Training    Rule Define Studio    PDF Toolbox     Settings  [   Beta   ]|
+|         tagline                                                                                                         |
++--------------
+┌─────── Sidebar  ──────────────┐       ┌───────────────────ai training pannel───────────────────┐
+│                               │       │  original unredected                  redected         │   
+│  Upload unredected            │       │  pdf                                    pdf            │
+│                               │       │  ──────────(scroll both page togeather)──────────────  │
+│                               │       │ │                                                      │
+│  upload redected              │       │ │  oriinal           │        redected             │   │ 
+│                               │       │ │  unredected        │        pdf                  │   │
+│   [Start Training]            │       │ │  pdf               │        full page            │   │
+│                               │       │ │  full page         │         maintain the        │   │
+│                               │       │ │  maintain the      │         ratio of page       │   │
+│                               │       │ │  ratio             │         next page           │   │
+│                               │       │ │  next page         │         when scroll         │   │
+│                               │       │ │  next page         │         when scroll         │   │
+│                               │       │ │  next page         │         when scroll         │   │
+│                               │       │ │  next page         │         when scroll         │   │
+│                               │       │ │  when scroll       │                             │   │
+└───────────────────────────────┘       │ │  [Export to Learned AI Folder] [Finalize & Close]│   │
+┌──────────────────────────────────────────────────────────────┐
+│                     FOOTER: Redectio · Local-only            │
+└──────────────────────────────────────────────────────────────┘
+
+
+
+i want Rule Define Studio pages will look something like this
++-----------------------------------------------------------------------------------------------------------------------+
+TOP HEADER (52px)
+|  logo   software name      Home    Redaction     AI Training    Rule Define Studio    PDF Toolbox     Settings  [   Beta   ]|
+|         tagline                                                                                                         |
++--------------
+┌─────── Sidebar  ──────────────┐       ┌──────────────────── Rule design ────────────────────┐
+│  Upload unredected            │       │               Zoom - Page Nav - Search              │
+│                               │       │  ─────────────────────────────────────────────────  │
+│                               │       │ │                                               │   │
+│      compny name              │       │ │             PDF Page(s)                       │   │ 
+│      (name can be edited)     │       │ │                                               │   │
+│   [Start Training]            │       │ │                                               │   │
+│                               │       │ │                                               │   │
+│                               │       │ │                                               │   │
+└───────────────────────────────┘       
+┌──────────────────────────────────────────────────────────────┐
+│                     FOOTER: Redectio · Local-only            │
+└──────────────────────────────────────────────────────────────┘
+
+
+
+i want pdf tools pages will look something like this
+
++-----------------------------------------------------------------------------------------------------------------------+
+TOP HEADER (52px)
+|  logo   software name      Home    Redaction     AI Training    Rule Define Studio    PDF Toolbox     Settings  [   Beta   ]|
+|         tagline                                                                                                         |
++--------------
+      ┌────────────────── tool cards  ────────────────────────────┐
+      │tools name icons and some small detail for that tool       │
+      │  ──────────────────────────────────────────────           │
+      │                                                           │
+      │             all tools cards                               │ 
+      │                                                           │
+      │                                                           │
+      ┌───────────────────────────────────────────────────────────┐
+      │                  FOOTER: Redectio · Local-only            │
+      └───────────────────────────────────────────────────────────┘
+
+after selecting the tool the page will
++-----------------------------------------------------------------------------------------------------------------------+
+TOP HEADER (52px)
+|  logo   software name      Home    Redaction     AI Training    Rule Define Studio    PDF Toolbox     Settings  [   Beta   ]|
+|         tagline                                                                                                         |
++--------------
+┌─────── Sidebar  ────┐       ┌──────────────────── Tool name ──────────────────────┐
+│  Upload             │       │               Zoom - Page Nav - tool function       │
+│                     │       │  ─────────────────────────────────────────────────  │
+│                     │       │ │                                               │   │
+│                     │       │ │             PDF Page(s)                       │   │ 
+│                     │       │ │                                               │   │
+│                     │       │ │                                               │   │
+│                     │       │ │                                               │   │
+│                     │       │ │                                               │   │       
+┌──────────────────────────────────────────────────────────────┐
+│                     FOOTER: Redectio · Local-only            │
+└──────────────────────────────────────────────────────────────┘
+
+
+
+

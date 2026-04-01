@@ -1,0 +1,41 @@
+PII / Client Info
+Report No
+Account Number
+License Number
+Client Name
+Client Phone
+Client Email
+Client Address
+Product / Batch Info
+Lot Number
+Sample ID
+COA Number
+Machine‑Readable Codes
+Barcode
+QR Code
+REPORT NO. C25310-92942
+ACCOUNT NUMBER
+07282
+TO:SEAN MITCHELL
+11519 MANVERS SCUGOG TOWNLINE PONTYPOOL, ON  L0A1K0
+Phone:905-244-7477
+PO#:Sean Mitchell
+LAB NUMBER:3109272
+SAMPLE ID:2025-UMP-T1
+
+
+✔ Step 1 — PDF loads
+✔ Step 2 — Frontend calls backend: POST /api/detect-company
+✔ Step 3 — Backend returns: 
+{
+  "company_id": "A_L_Canada",
+  "display_name": "A & L Canada Laboratories Inc."
+}
+✔ Step 4 — Frontend loads template: GET /api/templates/A_L_Canada
+✔ Step 5 — Frontend calls backend auto‑suggest: POST /api/redact/template?company_id=A_L_Canada
+✔ Step 6 — Backend merges:
+universal_rules.json
+defaults regex/layout/barcode
+company_rules/<company>.json
+✔ Step 7 — Backend returns suggestions
+✔ Step 8 — Frontend draws red boxes
