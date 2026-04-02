@@ -1,0 +1,37 @@
+<aside class="sidebar sidebar-studio">
+  <div class="sidebar-inner">
+    <div class="sidebar-header">
+
+      <section id="uploadSection" class="sidebar-section upload-compact">
+        <div class="sidebar-section-title">Upload</div>
+
+        <div id="dropZone" class="dropzone"
+          data-tooltip="Upload PDF&#10;Tip: Click or drag & drop a PDF to start.&#10;Shortcut: (none)">
+          <input id="fileInput" type="file" accept="application/pdf" class="dropzone-input" />
+          <div class="dropzone-inner">
+            <i data-lucide="upload-cloud" class="icon-20 dropzone-icon"></i>
+            <div class="dropzone-text-main">Click to upload or drag & drop</div>
+            <div class="dropzone-text-sub">PDF only · max 50MB</div>
+            <div id="fileName" class="dropzone-filename"></div>
+          </div>
+        </div>
+
+      </section>
+
+      <section class="sidebar-footer">
+        <div class="sidebar-section-title">Templates</div>
+        <select id="companySelect"></select>
+        <button id="btnSaveRule" class="btn btn-small btn-primary"
+          data-tooltip="Save selected as rule&#10;Tip: Adds a company-specific detection rule.&#10;Shortcut: (none)">
+          <i data-lucide="save" class="icon-20"></i>
+          Save Selected as Rule
+        </button>
+        <button id="btnSavePdf" class="btn btn-small btn-success"
+          data-tooltip="Download Updated PDF&#10;Tip: After applying auto‑redaction, click to save and download the redacted PDF.&#10;Shortcut: (none)"
+          style="margin-top: 10px; background-color: #10b981; color: #fff; width: 100%; border: none; font-weight: bold; padding: 10px;">
+          <i data-lucide="download" class="icon-20"></i>
+          Download Updated PDF
+        </button>
+      </section>
+    </div>
+</aside>
